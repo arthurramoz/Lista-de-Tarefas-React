@@ -1,0 +1,17 @@
+export const arrowParens = 'always';
+export const bracketSpacing = true;
+export const endOfLine = 'lf';
+export const htmlWhitespaceSensitivity = 'ignore';
+export const insertPragma = false;
+export const jsxSingleQuote = false;
+export const printWidth = 80;
+export const proseWrap = 'always';
+export const quoteProps = 'as-needed';
+export const requirePragma = false;
+export const semi = true;
+export const singleQuote = false;
+export const tabWidth = 2;
+export const trailingComma = 'all';
+export const useTabs = false;
+export const vueIndentScriptAndStyle = false;
+export const embeddedLanguageFormatting = 'off';
